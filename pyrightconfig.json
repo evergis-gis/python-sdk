@@ -1,0 +1,14 @@
+{
+  "venvPath": ".",
+  "venv": ".venv",
+  "typeCheckingMode": "off",
+  "executionEnvironments": [
+    {
+      "root": ".",
+      "extraPaths": [
+        "./packages/evergis_tools",
+        "./packages/evergis_api"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+[project]
+name = "spatial-processing-gateway-api"
+version = "1.5.1.0"
+description = "Generated EverGIS API client"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "httpx>=0.24.0",
+  "pydantic>=2.0.0",
+  "typing-extensions>=4.0.0",
+]
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"

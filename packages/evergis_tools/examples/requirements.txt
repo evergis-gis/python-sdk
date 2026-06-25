@@ -1,0 +1,5 @@
+python-dotenv>=1.0.0
+
+# Local packages are installed from the monorepo in editable mode:
+# pip install -e ../packages/evergis_api -e ../packages/evergis_tools
+
